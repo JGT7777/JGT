@@ -7,12 +7,14 @@ I’m building a quadruped robot, with two motors on each leg that allow it to m
 
 ----> I'm Spanish so maybe this text has little errors.... 
 
-Bill Of Materials
+Bill Of Materials ---------------------------------------------------------------------------
+
 <img width="807" height="1051" alt="image" src="https://github.com/user-attachments/assets/ade7a9f7-0789-40cc-b7e1-a786114251d7" />
 
 
 
-Coding/Project images
+Coding/Project images ------------------------------------------------------------------------
+
 <img width="1919" height="1077" alt="Captura de pantalla 2026-05-23 163557" src="https://github.com/user-attachments/assets/f96e5a2c-436c-4f21-9cb4-4a103e660ec5" />
 <img width="1919" height="1078" alt="Captura de pantalla 2026-05-23 163545" src="https://github.com/user-attachments/assets/ac1f81d5-03fc-4d54-8242-272a8067cb01" />
 <img width="1919" height="984" alt="Captura de pantalla 2026-05-21 213530" src="https://github.com/user-attachments/assets/27e980d7-2e11-4369-9b43-fad4f4c6bda4" />
