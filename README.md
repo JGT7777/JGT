@@ -11,6 +11,12 @@ Bill Of Materials --------------------------------------------------------------
 
 <img width="807" height="1051" alt="image" src="https://github.com/user-attachments/assets/ade7a9f7-0789-40cc-b7e1-a786114251d7" />
 
+| Name | Purpose | Qty | Price | Store |
+| OLED 0.96" SSD1306 | Tiny 128x64 OLED for my robot (I2C, ESP32) | 1 | $6.00 | Amazon |
+| Tattu 450mAh 2S XT30 LiPo | Small 2S LiPo (7.4V) for the robot | 1 | $16.50 | Amazon |
+| Buck converter LM2596 | Steps battery voltage down to 5V | 1 | $1.10 | Amazon |
+| Electro DH Single-Pole Switch | Main power switch | 1 | $1.10 | Amazon |
+| WeMos ESP32-S2 Mini | Main controller, WiFi movement | 1 | $7.60 | Amazon |
 
 
 Coding/Project images ------------------------------------------------------------------------
