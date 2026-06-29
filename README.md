@@ -20,6 +20,10 @@ Bill Of Materials --------------------------------------------------------------
 <img width="807" height="1051" alt="image" src="https://github.com/user-attachments/assets/ade7a9f7-0789-40cc-b7e1-a786114251d7" />
 
 
+Wiring Diagram ------------------------------------------------------------------------
+<img width="3581" height="1491" alt="MollyKao Wiring Diagram" src="https://github.com/user-attachments/assets/770e75fa-ddda-4e7c-9e6a-2a25df649778" />
+
+
 Coding/Project images ------------------------------------------------------------------------
 
 <img width="1919" height="1077" alt="Captura de pantalla 2026-05-23 163557" src="https://github.com/user-attachments/assets/f96e5a2c-436c-4f21-9cb4-4a103e660ec5" />
