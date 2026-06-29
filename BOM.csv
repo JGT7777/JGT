@@ -1,6 +1,1 @@
-Name,Purpose,Qty,PriceUSD,Web
-OLED 0.96" SSD1306,Tiny 128x64 OLED for my robot, I2C, works with ESP32,1,6.00,Amazon
-Tattu 450mAh 2S XT30 LiPo,Small 2S (7.4V) 450mAh LiPo with XT30, works great for my robot,1,16.50,Amazon
-Buck converter (LM2596, 5V/3A),Steps down battery voltage to stable 5V for servos and PCA9685,1,1.10,Amazon
-Electro DH Single-Pole Switch,Main power switch for the robot,1,1.10,Amazon
-WeMos ESP32-S2 Mini,Main controller for the robot, allows WiFi movement,1,7.60,Amazon
+
